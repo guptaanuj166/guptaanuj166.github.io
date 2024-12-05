@@ -1,5 +1,11 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hello! I am Anuj Gupta, a final-year undergraduate in Electrical Engineering at IIT Bombay. I have always been deeply fascinated by the domain of machine learning, with a particular interest in computer vision and natural language processing, as well as their underlying mathematics, including probability and optimization.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+I am currently working with Prof. Amit Sethi and Gouranga Bala at Medal Lab, IIT Bombay, on my B.Tech thesis project, where we are developing a pipeline for robust training on noisy label datasets. We are using a hybrid of self-supervised and supervised learning, and currently, we are outperforming many previous state-of-the-art techniques. An initial draft of our work has been published on arXiv as a preprint.
+
+
+In my penultimate year, I completed a quantitative internship at Goldman Sachs, Bangalore, as a Summer Analyst in the Risk Division. The project involved benchmarking multiple covariance functions, such as Ornstein-Uhlenbeck and Squared Exponential, to model the Interest Rate Forward Curve (e.g., SOFR) using Gaussian Processes.
+
+
+Apart from academics, I enjoy reading, and I am also passionate about playing chess and cricket. Feel free to connect with me!
