@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-
+subtitle: Undergraduate Student, Electrical Engineering @ Indian Institute of Technology Bombay
 profile:
   align: right
   image: prof_pic.jpg
@@ -11,6 +11,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
+latest_posts: false  # includes a list of the newest posts
 social: true # includes social icons at the bottom of the page
 ---
 
